@@ -12,6 +12,7 @@ import {
   getSession,
   loginWithPin,
   logout as clearSession,
+  type Session,
   type DemoUser,
 } from "@/lib/auth";
 

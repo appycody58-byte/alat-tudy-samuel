@@ -26,6 +26,7 @@ export const TUDY = {
   } satisfies DemoUser,
 } as const;
 
+/** @deprecated aliases for older UI */
 export const ACCOUNTS = {
   tudy: TUDY,
   demo: TUDY,
