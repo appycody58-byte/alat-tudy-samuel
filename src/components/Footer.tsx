@@ -20,6 +20,9 @@ export function Footer() {
           <a href="https://playground.alat.ng" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             Developers
           </a>
+          <a href="https://github.com/appycody58-byte/alat-tudy-samuel" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+            Source
+          </a>
         </div>
       </div>
     </footer>
